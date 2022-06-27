@@ -1,0 +1,11 @@
+1) Title
+2) project
+3) version
+4) bug severity
+5) priority
+6) status
+7) author
+8) executor
+9) Step to play
+10) Expected Result
+11) addition
