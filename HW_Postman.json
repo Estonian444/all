@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "9cac4d6c-fc13-415c-a301-2cd696773c55",
+		"_postman_id": "b1b68313-0ad9-4718-a52c-a475b0aa0f84",
 		"name": "HW_Postman",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "20594130"
@@ -138,7 +138,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://162.55.220.72:5005/get_method?name=str&age=int",
+							"raw": "http://162.55.220.72:5005/get_method?name=Sergei&age=26",
 							"protocol": "http",
 							"host": [
 								"162",
@@ -153,11 +153,11 @@
 							"query": [
 								{
 									"key": "name",
-									"value": "str"
+									"value": "Sergei"
 								},
 								{
 									"key": "age",
-									"value": "int"
+									"value": "26"
 								}
 							]
 						}
@@ -170,7 +170,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://162.55.220.72:5005/object_info_1?name=srt&age=int&weight=int",
+							"raw": "http://162.55.220.72:5005/object_info_1?name=Sergei&age=26&weight=50000",
 							"protocol": "http",
 							"host": [
 								"162",
@@ -185,15 +185,15 @@
 							"query": [
 								{
 									"key": "name",
-									"value": "srt"
+									"value": "Sergei"
 								},
 								{
 									"key": "age",
-									"value": "int"
+									"value": "26"
 								},
 								{
 									"key": "weight",
-									"value": "int"
+									"value": "50000"
 								}
 							]
 						}
