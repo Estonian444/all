@@ -1,3 +1,0 @@
-1)Email               Passed
-2)name                Failed
-3)age                 Passed
